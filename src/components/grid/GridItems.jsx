@@ -3,7 +3,7 @@ export default function GridItems (props) {
 
   return (
     <div className='widget_list_movies'>
-      <ul className='post-lst rw rcl2 rcl4a'>
+      <ul className='post-lst rw rcl1 rcl2a rcl3b rcl3c rcl4d rcl4e'>
         <PostItem itemsForGrid={itemsForGrid} toPage={toPage} />
       </ul>
     </div>
