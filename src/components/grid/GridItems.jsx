@@ -12,31 +12,40 @@ export default function GridItems (props) {
 
 const PostItem = props => {
   const itemsForGrid = [{
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-25-at-00.26.23-1.jpeg'
+    img: '/flayers/1.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-12-at-22.51.26-1.jpeg'
+    img: '/flayers/1.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-25-at-00.26.24.jpeg'
+    img: '/flayers/1.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-12-at-22.51.26-1.jpeg'
+    img: '/flayers/1.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-25-at-00.26.24.jpeg'
+    img: '/flayers/2.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-12-at-22.51.26-1.jpeg'
+    img: '/flayers/2.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-25-at-00.26.24.jpeg'
+    img: '/flayers/2.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-12-at-22.51.26-1.jpeg'
+    img: '/flayers/2.png'
   },
   {
-    img: 'https://psdflyerbr.net/wp-content/uploads/2021/06/WhatsApp-Image-2021-05-25-at-00.26.24.jpeg'
+    img: '/flayers/3.png'
+  },
+  {
+    img: '/flayers/3.png'
+  },
+  {
+    img: '/flayers/3.png'
+  },
+  {
+    img: '/flayers/3.png'
   }]
   return itemsForGrid.map((item, index) => (
     <li className="movies" key={'a' + index}>
