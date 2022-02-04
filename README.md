@@ -12,6 +12,5 @@ yarn dev
 
 ## Sobre
 
-É um webscraping de um site de filmes e series, antes estava 100% funcional até o site cair, como o objetivo não é ficar atualizando para o publico, após o site cair, eu parei com as atualizações.
-Apesar de ser um site pirata, meu objetivo não é compartilhar nem ganhar com isso, é meu primeiro projeto grande envolvendo mongodb e serverless, webscraping era o caminho mais rapido para ver resultados, você pode analisar o codigo e ver como foi feito, apesar de ter sido feito por alguém que estudou no youtube e em foruns na internet.
+...
 
