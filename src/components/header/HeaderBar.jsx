@@ -20,6 +20,13 @@ const HeaderBar = () => {
           <Link href='/'>LINK</Link>
         </li>
       </ul>
+
+      <div className="logoMain tac">
+        <img
+          src={'/images/logo.svg'}
+          alt=""
+        />
+      </div>
     </div>
   )
 }
