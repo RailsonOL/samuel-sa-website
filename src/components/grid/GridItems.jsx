@@ -34,18 +34,6 @@ const PostItem = props => {
   },
   {
     img: '/flayers/2.png'
-  },
-  {
-    img: '/flayers/3.png'
-  },
-  {
-    img: '/flayers/3.png'
-  },
-  {
-    img: '/flayers/3.png'
-  },
-  {
-    img: '/flayers/3.png'
   }]
   return itemsForGrid.map((item, index) => (
     <li className="movies" key={'a' + index}>
