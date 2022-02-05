@@ -44,7 +44,7 @@ function MyApp ({ Component, pageProps }) {
 							<div className="price">
 								<h4>R$ 27,90</h4>
 							</div>
-							<button className="btn btn-block btn-outline-primary" type="submit">ASSINAR</button>
+							<button className="btnmod btnmod-block btnmod-outline-primary" type="submit">ASSINAR</button>
 						</div>
 					</div>
 					<div className="col-md-5 col-lg-4">
@@ -67,7 +67,7 @@ function MyApp ({ Component, pageProps }) {
 							<div className="price">
 								<h4>R$ 75,90</h4>
 							</div>
-							<button className="btn btn-block btn-outline-primary" type="submit">ASSINAR</button>
+							<button className="btnmod btnmod-block btnmod-outline-primary" type="submit">ASSINAR</button>
 						</div>
 					</div>
 					<div className="col-md-5 col-lg-4">
@@ -89,7 +89,7 @@ function MyApp ({ Component, pageProps }) {
 							<div className="price">
 								<h4>R$ 229,90</h4>
 							</div>
-							<button className="btn btn-block btn-outline-primary" type="submit">ASSINAR</button>
+							<button className="btnmod btnmod-block btnmod-outline-primary" type="submit">ASSINAR</button>
 						</div>
 					</div>
 				</div>
